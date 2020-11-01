@@ -1,0 +1,19 @@
+{
+  "name": "node-yout",
+  "version": "1.0.0",
+  "description": "node exercice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Samira",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
